@@ -13,7 +13,9 @@ A demo that "should work" is weak evidence. A three-node cluster that survived a
 
 ## Product pages
 
-- [code-audit-cli source license on 爱发电](https://afdian.com/item/ab13dee0ab5111f18e855254001e7c00)
-- [raft-kv source license on 爱发电](https://afdian.com/item/5fdf89d69d8e11f19e9952540025c377)
+- English: [code-audit-cli source license on Gumroad](https://5552463341538.gumroad.com/l/code-audit-cli-source)
+- English: [raft-kv source license on Gumroad](https://5552463341538.gumroad.com/l/ogklti)
+- Chinese: [code-audit-cli on 爱发电](https://afdian.com/item/ab13dee0ab5111f18e855254001e7c00)
+- Chinese: [raft-kv on 爱发电](https://afdian.com/item/5fdf89d69d8e11f19e9952540025c377)
 
 If a repository feature is missing, a rule looks wrong, or a piece of evidence is hard to follow, open an issue on the repository. I answer public technical questions in the repos before asking anyone to buy anything.
